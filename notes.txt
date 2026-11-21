@@ -1,0 +1,2 @@
+the previous file was accessible via the proxy endpoint so we changing it to symlink and test it 
+
